@@ -1,5 +1,7 @@
 # dashboard-template
-
+## 技术
++ Vue 3.x
++ Element plus
 ## Project setup
 ```
 yarn install
